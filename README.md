@@ -1,3 +1,20 @@
+#to run the project
+npm i
+cd Flask-server
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process
+myenv\Scripts\activate
+python server.py
+
+#open another terminal for frontend
+cd client
+npm start
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
