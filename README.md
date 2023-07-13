@@ -1,13 +1,13 @@
 #to run the project
-npm i
-cd Flask-server
-Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process
-myenv\Scripts\activate
-python server.py
-
+npm i , 
+cd Flask-server , 
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process , 
+myenv\Scripts\activate , 
+python server.py , 
+   
 #open another terminal for frontend
-cd client
-npm start
+cd client , 
+npm start    .
 
 
 
